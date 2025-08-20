@@ -1,4 +1,4 @@
-# 🤖 Makine Öğrenmesi eve  Uygulamalari
+# 🤖 Makine Öğrenmesi ve  Uygulamalari
 Bu depo, Udemy'den aldığım "Veri Bilimi ve Makine Öğrenmesi" kursunun makine öğrenmesi bölümünde öğrendiklerimi uyguladığım Jupyter Notebook dosyalarını ve projeleri içerir.
 
 Kursun ilk bölümündeki veri bilimi temelleriyle ilgili notlarımı **[Data_Science](https://github.com/karadumanali/Data_Science_Notebooks)** deposunda bulabilirsiniz.
