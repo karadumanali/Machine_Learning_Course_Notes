@@ -10,19 +10,19 @@ Kursun ilk bölümündeki veri bilimi temelleriyle ilgili notlarımı **[Data_Sc
 Bu depoda yer alan makine öğrenmesi konuları ve mevcut ilerleme durumum:
 
 - [x] **Temel Makine Öğrenmesi Kavramları:** Denetimli ve Denetimsiz Öğrenme.
-- [ ] **Regresyon Algoritmaları:**
-    - Doğrusal Regresyon (Linear Regression)
-    - Lojistik Regresyon (Logistic Regression)
+- [x] **Regresyon Algoritmaları:**
+    - [x] Doğrusal Regresyon (Linear Regression)
+    - [x] Lojistik Regresyon (Logistic Regression)
 - [ ] **Sınıflandırma Algoritmaları:**
-    - K-En Yakın Komşu (K-NN)
-    - Destek Vektör Makineleri (SVM)
-    - Karar Ağaçları ve Rastgele Orman (Decision Trees & Random Forest)
+    - [ ] K-En Yakın Komşu (K-NN)
+    - [ ] Destek Vektör Makineleri (SVM)
+    - [ ] Karar Ağaçları ve Rastgele Orman (Decision Trees & Random Forest)
 - [ ] **Kümeleme Algoritmaları:**
-    - K-Ortalama (K-Means)
-    - Hiyerarşik Kümeleme
+    - [ ] K-Ortalama (K-Means)
+    - [ ] Hiyerarşik Kümeleme
 - [ ] **Model Değerlendirme ve Hiperparametre Ayarlama:**
-    - Model Doğrulama Teknikleri
-    - Hiperparametre Optimizasyonu
+    - [ ] Model Doğrulama Teknikleri
+    - [ ] Hiperparametre Optimizasyonu
 
 ---
 
