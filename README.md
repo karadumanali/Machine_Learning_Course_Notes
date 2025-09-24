@@ -16,7 +16,7 @@ Bu depoda yer alan makine öğrenmesi konuları ve mevcut ilerleme durumum:
 - [ ] **Sınıflandırma Algoritmaları:**
     - [x] K-En Yakın Komşu (K-NN)
     - [x] Destek Vektör Makineleri (SVM)
-    - [ ] Karar Ağaçları ve Rastgele Orman (Decision Trees & Random Forest)
+    - [x] Karar Ağaçları ve Rastgele Orman (Decision Trees & Random Forest)
 - [ ] **Kümeleme Algoritmaları:**
     - [ ] K-Ortalama (K-Means)
     - [ ] Hiyerarşik Kümeleme
